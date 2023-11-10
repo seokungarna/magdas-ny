@@ -1,0 +1,86 @@
+.SVGIcon {
+  height: 5.6rem;
+  width: 5.6rem;
+  position: relative;
+  display: inline-block;
+  background: lightblue;
+  border-radius: 50%;
+  transition: 0.3s ease all;
+}
+
+.SVGIcon--icon {
+  position: absolute;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  background: whitesmoke;
+  height: 60%;
+  width: 60%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.3s ease all;
+}
+
+.SVGIcon:hover {
+  background: yellow;
+}
+
+.SVGIcon:hover .SVGIcon--icon {
+  background: purple;
+}
+-webkit-text-size-adjust: 100%;
+--page-title-display: block;
+color: #333;
+font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+font-weight: 400;
+font-size: 1rem;
+line-height: 1.5;
+--e-global-color-primary: #6EC1E4;
+--e-global-color-secondary: #54595F;
+--e-global-color-text: #7A7A7A;
+--e-global-color-accent: #61CE70;
+--e-global-color-55f9f89: #B2BF4B;
+--e-global-typography-primary-font-family: "Roboto";
+--e-global-typography-primary-font-weight: 600;
+--e-global-typography-secondary-font-family: "Roboto Slab";
+--e-global-typography-secondary-font-weight: 400;
+--e-global-typography-text-font-family: "Roboto";
+--e-global-typography-text-font-weight: 400;
+--e-global-typography-accent-font-family: "Roboto";
+--e-global-typography-accent-font-weight: 500;
+hyphens: manual;
+text-align: left;
+box-sizing: border-box;
+display: inline-block;
+margin: 0;
+margin-bottom: 15px;
+width: 30%;
+
+-webkit-text-size-adjust: 100%;
+--page-title-display: block;
+color: #333;
+font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+font-size: 0.9375rem;
+font-weight: 400;
+line-height: 1.66;
+--e-global-color-primary: #6EC1E4;
+--e-global-color-secondary: #54595F;
+--e-global-color-text: #7A7A7A;
+--e-global-color-accent: #61CE70;
+--e-global-color-55f9f89: #B2BF4B;
+--e-global-typography-primary-font-family: "Roboto";
+--e-global-typography-primary-font-weight: 600;
+--e-global-typography-secondary-font-family: "Roboto Slab";
+--e-global-typography-secondary-font-weight: 400;
+--e-global-typography-text-font-family: "Roboto";
+--e-global-typography-text-font-weight: 400;
+--e-global-typography-accent-font-family: "Roboto";
+--e-global-typography-accent-font-weight: 500;
+hyphens: manual;
+display: block;
+box-sizing: border-box;
+position: relative;
+transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+padding: 50px 10px 50px 10px;
+background-color: #ffffff;

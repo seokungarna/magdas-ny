@@ -1,0 +1,31 @@
+.starz {
+  margin-top: 20px;
+}
+.feather {
+  width: 20px;
+  height: 20px;
+  stroke: #5CC95D;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: #5CC95D;
+}
+
+.recen {
+  padding: 0;
+  font-size: 1.3rem;
+  margin: 0;
+  font-weight: 600;
+}
+.namez {
+color:  #5CC95D;
+font-size: 2rem;
+padding: 0;
+margin-bottom: 2px;
+font-weight: bold;
+
+}
+.comment {
+  margin-right: 10px;
+  font-size: 1.4rem;
+}
