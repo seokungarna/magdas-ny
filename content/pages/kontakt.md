@@ -2,7 +2,7 @@
 template: ContactPage
 slug: kontakt
 title: Boka / Få pris
-featuredImage: ../images/flyttstadning_hel.webp
+featuredImage: ../images/kontakt.webp
 subtitle: Kontakta oss enkelt via formuläret nedan, så får du svar så snart som möjligt.
 address: 'Badhusgatan 2, Helsingborg'
 phone: 073 637 99 08

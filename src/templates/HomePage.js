@@ -16,7 +16,7 @@ import '../components/PostSection.css'
 const campaign = {};
 // if(process.env.CAMPAIGN && process.env.CAMPAIGN == 'true') campaign.active = true;
 // else campaign.active = false;
-campaign.active = true
+campaign.active = false
 campaign.percentage = 35;
 const month = ["Januari","Februari","Mars","April","Maj","Juni","Juli","Augusti","September","Oktober","November","December"];
 

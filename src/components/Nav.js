@@ -55,11 +55,10 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Hem</NavLink>
-            <NavLink to="/detta-ingar-i-flyttstadningen/">Detta ingår i flyttstädningen</NavLink>
-           {!campaign.active && <NavLink to="/#priser">Priser</NavLink> }
-            <NavLink to="/kontakt/">Kontakta Oss</NavLink>
-            <NavLink to="/om-oss-pa-flyttstadning-helsingborg/">Om oss</NavLink>
+            <NavLink to="/boka-eller-be-om-pris/">Boka eller be om pris</NavLink>
             <NavLink to="/vanliga-fragor/">Vanliga frågor</NavLink>
+            <NavLink to="/vara-tjanster">Våra tjänster</NavLink>
+            <NavLink to="/vi-jobbar-har/">Vi jobbar här</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"

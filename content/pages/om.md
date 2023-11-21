@@ -1,23 +1,88 @@
 ---
 template: DefaultPage
-slug: om-oss-pa-flyttstadning-helsingborg
-title: Om oss
-featuredImage: '../images/flyttstadning_hel.webp'
+slug: vi-jobbar-har
+title: Vi jobbar här
+featuredImage: '../images/vi-jobbar-har.webp'
 meta:
   description: Vår städfirma Flyttstädning Helsingborg består av ett antal personer som alla har lång erfarenhet av flyttstädning. Vi är punktliga. Vi utför alla uppdrag inom begärd tid.  Självklart har vi F-skattsedel och är försäkrade vid Länsförsäkringar för eventuella skador hos kund på upp till tio miljoner kronor.
-  title: Om oss | Flyttstädning Helsingborg 🧹
-  canonicalLink: https://magdasfonsterputs.se/om-oss-pa-flyttstadning-helsingborg/
+  title: Vi jobbar här | Magdasfönsterputs 🧹
+  canonicalLink: https://magdasfonsterputs.se/vi-jobbar-har/
+--- 
 
----
-Vår **städfirma Flyttstädning Helsingborg** består av ett antal personer som alla har lång erfarenhet av flyttstädning. Vi är punktliga. Vi utför alla uppdrag inom begärd tid. Vi är drogfria, skötsamma och självklart även hederliga.
+#Nyfiken på var vi jobbar?
 
-Självklart har vi godkända för F-skatt och är försäkrade vid Länsförsäkringar för eventuella skador hos kund på upp till tio miljoner kronor. Vi betalar även försäkringar för vår personal ifall de skulle råka skada sig under arbetstid.
+Här har vi sammanställt var Magdas Fönsterputs arbetar. Som vi tidigare nämnt putsar vi fönster på orter över hela Skåne. Vi har vår bas i Lund men arbetar efter ett rullande schema med vår snygga gröna bil på ort efter ort. 
 
-Vi eftersträvar att hålla en så god kvalité som möjlighet på städningen. Kundens önskemål är grundläggande för hur vi arbetar och vi strävar alltid efter att göra kunden nöjd. **Vi garanterar att du som kund alltid är helt nöjd med våra tjänster, annars kompenserar vi dig så att du blir nöjd.** Vi utreder noggrant eventuella reklamationer, dokumenterar och utvärderar dem så att vi lär oss inför framtiden.
+En majoritet av våra kunder, som anlitar oss privat med RUT-avdrag, bor i villor eller radhus. Oftast putsar vi deras bostäder enbart utvändigt med den fördelen att kunden inte behöver vara hemma för att släppa in oss när vi kommer. Vid behov kan vi lägga till vissa punkter såsom invändig putsning, rengöring av uterum, flera våningar och liknande. Det är du som kund som styr putsningen – inte vi!
 
-#### Info
-Flyttstädning Helsingborg  
-Epost: <a href="mailto:info@xn--flyttstdning-helsingborg-wbc.nu">info@flyttstädning-helsingborg.nu</a>  
-Tel: <a href="tel:073 637 99 08">073 637 99 08</a>  
-Badhusgatan 2, 25221 Helsingborg  
-Orgnr 559241-9229 
+Vi putsar självklart även i lägenheter åt privatpersoner. När det gäller företag putsar vi exempelvis hos restauranger, butiker och kontorslokaler. 
+
+Anlita oss per gång eller abonnemang! Vi är flexibla och älskar att vara smidiga. 
+
+Hör av dig om du har några frågor.
+
+<div class="PostSection--GridJK">
+  <div class="PostCard--HomeP relative">
+
+  <ul>
+  <li>
+  <a href="/fonsterputsning-lund/">Lund</a>
+  </li>
+  <li>
+  <a href="/fonsterputsning-malmo/">Malmö</a>
+  </li>
+  <li>
+  <a href="/fonsterputsning-kristianstad/">Kristianstad</a>
+  </li>
+  <li>
+  Ystad
+  </li>
+  <li>
+  Skurup
+  </li>
+  <li>
+  Svedala
+  </li>
+  <li>
+  Hässleholm
+  </li>
+  <li>
+  Hörby
+  </li>
+  <li>
+  Höör
+  </li>
+  </ul>
+  </div>
+  <div class="PostCard--HomeP relative">
+    <ul>
+    <li>
+    Stehag
+    </li>
+    <li>
+    Svalöv
+    </li>
+    <li>
+    Trelleborg
+    </li>
+    <li>
+    Tygelsjö
+    </li>
+    <li>
+    Oxie
+    </li>
+    <li>
+    Eslöv
+    </li>
+    <li>
+    Kävlinge
+    </li>
+    <li>
+    Löddeköpinge
+    </li>
+    <li>
+    Helsingborg
+    </li>
+    </ul>					
+  </div>
+</div>

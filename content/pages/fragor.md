@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: vanliga-fragor
 title: Vanliga Frågor
-featuredImage: '../images/flyttstadning-helsingborg.webp'
+featuredImage: '../images/vanligafragor.webp'
 meta:
   description: Vi har en garanti på 14 dagar och åtgärdar eventuella fel som reklameras inom denna period. Vi åtar oss att åtgärda dem snarast och utan extra kostnad. Vår garanti omfattar inte fel som hittas efter det att garantitiden löpt ut. Kom ihåg att vi endast kommer 1 gång och åtgärdar eventuella brister. 
   title: Vanliga Frågor | Flyttstädning Helsingborg
@@ -10,53 +10,64 @@ meta:
 
 ---
 
-#### Besiktning och garanti
-Vi har en garanti på **14 dagar** och åtgärdar eventuella fel som reklameras inom denna period. Vi åtar oss att åtgärda dem så snart som möjligt utan extra kostnad. Vår garanti omfattar inte fel som hittas efter det att garantitiden löpt ut. Kom ihåg att vi endast kommer 1 gång och åtgärdar eventuella brister, därför är det bra om ni (eller hyresvärd / köpare) är med vid ombesiktningen och går igenom städningen med oss, så att alla är överrens.
+###### Vår Historia
+##Vilka är Magdas Fönsterputs?
 
-***Förbehåll***  
+När du behöver hjälp med fönsterputsning av kan du med förtroende vända dig till oss.  Vi på Magdas Fönsterputs AB har lång erfarenhet och vet hur vi ger dig skinande blanka och rena fönster med minsta möjliga besvär för dig till ett riktigt bra pris. Magdas Fönsterputs AB putsar fönster hemma hos privatpersoner och företag. Vi utgår från Lund men vi putsar fönster i hela Skåne. 
 
-Om vi blir förhindrade att utföra flyttstädningen på avtalad tid av
-orsaker som t ex. att du inte tillser att städobjektet är upplåst, tillgängligt eller att möbler inte är utflyttade, kan merkostnad tillkomma.
+Vi på Magdas Fönsterputs AB löser problem med smutsiga fönster på nolltid oavsett om du är en privatperson med ett fåtal fönster eller företagskund med flera hundra fönster. För oss är inget uppdrag för stort eller för litet. Vi arbetar på samma noggranna sätt oavsett hur många fönster som ska tvättas. Vi garanterar att vi klarar av att utföra alla typer av uppdrag inom fönsterputsning och vi ger oss inte förrän du som kund är 100 % nöjd med resultatet.
 
-Om vår uppfattning av städobjektets skick (ex onormalt nersmutsad) är annorlunda än din, kommer vi att kontakta dig före städningen för att komma överens om ett nytt pris som återspeglar detta.
+Psst! Du vet väl att vi numera har en [blog](https://magdasfonsterputs.se/category/blog/) med tips och tricks?
 
-Om vår ansökan om skattereduktion avslås förbehåller vi oss rätten att debitera dig fakturans totalbelopp inklusive moms.
-
-#### Betalning
-Betalning sker mot faktura (14 dagars betalningsvillkor). Tänk på att uppge ert personnummer vid bokningen av flyttstädningen.
-
-### RUT-avdrag vid flyttstädning
-Nästan alla har väl hört talas om **RUT- och ROT-avdrag** men det är nog inte många som vet vad det egentligen innebär i praktiken. Vi har därför samlat ihop några av de vanligaste frågorna som våra kunder ställer till oss och besvarar dem här:
+![alt text](/images/fonsterputs1.webp "Fönsterputsning")
 
 
-#### Vad innebär RUT-avdrag?
-RUT är en förkortning av Rengöring, Underhåll och Tvätt. Med möjligheten till RUT-avdrag får du skattereduktion med 50 % på arbetskostnaden för **hushållsnära tjänster** som omfattar rengöring, underhåll och tvätt hemma hos dig. **Flyttstädning** är en sådan tjänst som omfattas av RUT-avdraget. I korthet får alltså du som kund hela ***50 % rabatt på priset!***
+####Fler vanliga frågor
 
-Material- och resekostnader i samband med husarbetet ger inte rätt till skattereduktion. Grundregeln för husarbete är att du ska bo i bostaden där arbetet utförs eller ha den som fritidsbostad.
+###RUT-avdrag – vad gäller vid fönsterputsning?
 
+Du kan få skattereduktion för hushållsnära tjänster – så kallat RUT-avdrag –  som utförs i ditt hem, sommarstuga eller liknande. Fönsterputsning räknas som en hushållsnära tjänst vilket innebär att du bara betalar för halva arbetskostnaden när vi kommer hem till dig för att tvätta dina fönster. Du behöver inte göra någonting! Vi drar av RUT-avdraget direkt på fakturan och sköter all administration hos Skatteverket. 
 
-#### Hur fungerar det i praktiken? Behöver jag ligga ute med egna pengar eller fylla i ansökningar till Skatteverket?
+RUT-avdraget gäller enbart för privatpersoner. För mer information läs gärna här på Skatteverkets hemsida.
 
-Nej, det behöver du inte.
+###Vilka är era priser på fönsterputsning?
 
-***Vi drar rabatten direkt*** på fakturan eller kvittot och när vi fått betalt från dig ansöker vi om resterande del av arbetskostnaden från Skatteverket. För detta arbete tar vi ut en administrationsavgift på endast 25 kronor per kund.
+Det beror på hur många fönster du har, antal sidor (invändigt och / eller utvändigt) och om du vill lägga till extra tjänster eller inte. Exempel på tjänster som debiteras extra är rengöring av fönsterbleck, rengöring av fönster med spröjs eller putsning av inglasad altan. Kontakta oss gärna om du vill veta mer om våra priser.
 
+###Vad är Mer-än-Nöjd-garantin?
 
-#### Hur vet jag om jag har rätt till detta RUT-avdrag?
+När du anlitar oss för fönsterputsning vill vi att du ska kunna känna dig trygg med att du får ett korrekt utfört jobb till överenskommet pris. Mer-än-nöjda kunder är grunden för vår affärsidé, det är så vi kan växa och utvecklas som företag.  Det är därför vi på Magdas Fönsterputs AB erbjuder en mer-än-nöjd-garanti. 
 
-För att ha rätt till skattereduktion för husarbete måste du ha:
+Vi har hundratals väldigt nöjda kunder som anlitar oss varje år. Det ger oss ett tydligt bevis på att vi har rätt strategi. Vill du bli en av våra nöjda kunder du också? Kontakta oss då och berätta vad du behöver hjälp med!
 
-- varit obegränsat skattskyldig under beskattningsåret
-- fyllt minst 18 år vid beskattningsårets utgång, och
-- haft utgifter för husarbete.
+###Tar ni med eget material?
 
-Den skatt som du betalat in under året till Skatteverket måste överstiga det belopp som du vill få skattereduktion på. Du kan som högst få **75 000** kronor i RUT-avdrag per år.
+Vi tar med oss allt som behövs för att putsa era fönster skinande rena! Du behöver bara se till att fönstren går att komma åt. Vid invändig fönsterputsning bör du till exempel plocka undan gardiner eller krukor från fönsterblecken.
 
-Dödsbo har inte rätt till skattereduktion. Undantag är om husarbetet utförts före dödsfallet, då kan dödsboet få skattereduktion.
+###Är det rent och snyggt när ni går?
 
-Om du är osäker på om du rätt till RUT-avdrag eller hur mycket du kan utnyttja rekommenderar vi att du vänder dig till [Skatteverket](https://www.skatteverket.se) för mer information och det helst innan du beställer tjänst av oss.
+Vår personal ser alltid till att städa efter sig när de är klara. Vi lämnar er plats som den var med undantag för skinande rena fönster så klart.
 
+###Putsar ni även vid dåligt väder?
 
-#### Jag fick ett beslut från Skatteverket om att jag inte har rätt till RUT-avdrag. Vad händer nu?
+Vi putsar fönster i alla väder förutom vid regn, snöstorm och kraftig blåst. I dessa fall bokar vi såklart om tiden.
 
-Om du fått ett sådant beslut från Skatteverket innebär det att även vi fått avslag på vår ansökan om skattereduktion från dem. Då kommer vi att att debitera dig fakturans totalbelopp inklusive moms. Det åligger dig som kund att utreda om du har rätt till RUT-avdrag eller ej, det gör inte vi utan vi förutsätter att kunden har tagit reda på detta innan hen beställer tjänsten av oss.
+###Vad händer om något skulle råka gå sönder?
+
+Magdas Fönsterputs AB är ansvarsförsäkrade hos Länsförsäkringar. Om det skulle visa sig att skadan uppkommit genom att vi har varit oaktsamma står vi självklart för kostnaden. Visar det sig att skadan uppstått p g a fel eller brist på information från kundens sida eller tredje part ansvarar vi inte för skadan.
+
+###Måste jag vara hemma?
+
+Du behöver inte vara hemma under hela putsningen, men vi ser gärna att du finns på plats och släpper in vår personal samt kommer och besiktigar efteråt. Om fönstrena enbart ska putsas utvändigt behöver du inte vara hemma. I det fallet SMS:ar vi dig en dag i förväg och påminner om att vi ska komma och putsa dagen därpå.
+
+###Hur räknar ni antal fönster?
+
+Vad många ofta tror är ett fönster är hela den glasade biten man ser ut och in genom. 
+
+Men inom alla fönsterputsföretag, så även vi, räknas fönster per handtag…  
+Läs mer via länken nedan.
+
+<a href="https://magdasfonsterputs.se/rakna-fonster/">
+  <div class="Button">Räkna fönster</div>
+</a>  
+<br><br>
