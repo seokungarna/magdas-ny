@@ -52,20 +52,46 @@ Har du speciella önskemål eller önskar du beställa fönsterputs? Klicka på 
 
 Välkommen att kontakta oss!
 
+<section class="Contact--Section1">
+<div class="container Contact--Section1--Container">
+<div class="Contact--Details">
+
 <a href="https://magdasfonsterputs.se/villa-radhus/">
   <div class="Button">Fönsterputsning hus</div>
 </a>  
-<br><br>
+</div>
+
+<div class="Contact--Details">
 <a href="https://magdasfonsterputs.se/lagenhet/">
   <div class="Button">Fönsterputsning lägenhet</div>
 </a>  
-<br><br>
+</div>
+</div>
+
+<br>
+</br>
+<div class="container Contact--Section1--Container">
+<div class="Contact--Details">
+
 <a href="https://magdasfonsterputs.se/foretag/">
   <div class="Button">Fönsterputsning företag</div>
-</a>  
-<br><br>
+</a>
+</div>
+
+<div class="Contact--Details">
 <a href="https://magdasfonsterputs.se/vara-tjanster/fonsterrenovering/">
   <div class="Button">Fönsterrenovering</div>
-</a>  
-<br><br>
+</a> 
+</div>
+</div>
+
+</section>
+<br>
+</br>
+
+
+  
+
+ 
+
 

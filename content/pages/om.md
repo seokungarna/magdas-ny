@@ -4,7 +4,7 @@ slug: vi-jobbar-har
 title: Vi jobbar här
 featuredImage: '../images/vi-jobbar-har.webp'
 meta:
-  description: Vår städfirma Flyttstädning Helsingborg består av ett antal personer som alla har lång erfarenhet av flyttstädning. Vi är punktliga. Vi utför alla uppdrag inom begärd tid.  Självklart har vi F-skattsedel och är försäkrade vid Länsförsäkringar för eventuella skador hos kund på upp till tio miljoner kronor.
+  description: Var och hur vi på Magdasfönsterputs arbetar och vart vi finns. 
   title: Vi jobbar här | Magdasfönsterputs 🧹
   canonicalLink: https://magdasfonsterputs.se/vi-jobbar-har/
 --- 

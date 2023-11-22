@@ -8,11 +8,11 @@ subtitle:
 meta:
   description: Magdas fönsterputs i Lund. Enkelt och billigt med garanterat nöjda kunder ✔️. Vi erbjuder fasta priser och städgaranti ✔️. Boka oss eller begär en offert enkelt online ✔️.
   title: Magdas Fönsterputs
-  canonicalLink: https://magdasfonsterputs.se/fonsterputsning-Lund
+  canonicalLink: https://magdasfonsterputs.se/fonsterputsning-lund
 
 ---
 
-###Bor du i Lund och har smutsiga fönster?
+####Bor du i Lund och har smutsiga fönster?
 
 ##Läs mer om Våra tjänster i Lund
 
