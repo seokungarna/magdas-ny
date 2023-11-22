@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: 'fonsterputsning-malmo'
 title: Fönsterputsning Malmö
-featuredImage: 'images/magdas-malmo.webp'
+featuredImage: '../images/magdas-malmo.webp'
 subtitle:
 
 meta:

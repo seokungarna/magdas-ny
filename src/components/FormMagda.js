@@ -25,20 +25,14 @@ class Form extends React.Component {
     privat_eller_foretag: 'privat',
     fastighetstyp: 'lagenhet',
     activefloor: 0,
-    // floor: [     
-    //   {  name: 'plan1', active: 0, stegar: 0, fonster: 0, fonster_tva: 0, fonster_fyra: 0, fonster_sex: 0, fonster_atta: 0, takfonster: 0, gallerfonster: 0 },
-    //   {  name: 'plan2', active: 0, stegar: 0, fonster: 0, fonster_tva: 0, fonster_fyra: 0, fonster_sex: 0, fonster_atta: 0, takfonster: 0, gallerfonster: 0 },
-    //   {name: 'kallare', active: 0, stegar: 0, fonster: 0, fonster_tva: 0, fonster_fyra: 0, fonster_sex: 0, fonster_atta: 0, takfonster: 0, gallerfonster: 0 },
-    //   { name: 'uterum', active: 0, stegar: 0, fonster: 0, fonster_tva: 0, fonster_fyra: 0, fonster_sex: 0, fonster_atta: 0, takfonster: 0, gallerfonster: 0 },
-    // ],
-   flooor: 'hej',
     floor: [
       [0,0,0,0,0,0,0,0], // not used
       [0,0,0,0,0,0,0,0], // plan 1
       [0,0,0,0,0,0,0,0], // plan 2
       [0,0,0,0,0,0,0,0], // källare
       [0,0,0,0,0,0,0,0] // uterum
-  ]
+  ],
+    floorstring : "",
   }
   setType(type) {
     this.setState({type : type.target.value});
@@ -57,17 +51,50 @@ class Form extends React.Component {
     
   }
   increaseThis(floor,windowtype) {
-    console.log("floor:" + floor, "value: ", windowtype)
+    console.log("floor:" + floor, "windowtype: ", windowtype)
     let key = floor;
     let keey = windowtype
     this.setState(prevState => ({
 
       floor: prevState.floor[key][keey]++
       
-    }, () => { return { floor } }
-    
+    }, () => { 
+      return { floor } }
     ))
     console.log(this.state.floor)
+    this.upDateFloorString(this.state.floor)
+  }
+
+  decreaseThis(floor,windowtype) {
+    console.log("floor:" + floor, "windowtype: ", windowtype)
+    let key = floor;
+    let keey = windowtype
+    if (this.state.floor[key][keey] === 0) return
+
+    this.setState(prevState => ({
+
+      floor: prevState.floor[key][keey]--
+      
+    }, () => { 
+      return { floor } 
+    }
+    ))
+    this.upDateFloorString(floor)
+    console.log(this.state.floor)
+    
+    } 
+  upDateFloorString(f) {
+    console.log(f)
+    console.log(f[1][0])
+    let flooz = "";
+    for (let i = 1; i < f.length; i++) {
+      if (i == 1) flooz = flooz + "Våning 1: Stege: "+ f[i][0] + "Vanligt fönster: " + f[i][1] + " Delat fönster: "  + f[i][2] + " Fyrdelat fönster: "  + f[i][3] + " Sexdelat fönster: "  + f[i][4] + " Sextondelat fönster: "  + f[i][5] + " Takfönster: "  + f[i][6] + "<br>";
+      else if (i == 2) flooz = flooz + "Våning 2: Stege: "+ f[i][0] + "Vanligt fönster: " + f[i][1] + " Delat fönster: "  + f[i][2] + " Fyrdelat fönster: "  + f[i][3] + " Sexdelat fönster: "  + f[i][4] + " Sextondelat fönster: "  + f[i][5] + " Takfönster: "  + f[i][6] + "<br>";
+      else if (i == 3) flooz = flooz + "Källare: Stege: "+ f[i][0] + "Vanligt fönster: " + f[i][1] + " Delat fönster: "  + f[i][2] + " Fyrdelat fönster: "  + f[i][3] + " Sexdelat fönster: "  + f[i][4] + " Sextondelat fönster: "  + f[i][5] + " Takfönster: "  + f[i][6] + "<br>";
+      else if (i == 4) flooz = flooz + "Vind : Stege: "+ f[i][0] + "Vanligt fönster: " + f[i][1] + " Delat fönster: "  + f[i][2] + " Fyrdelat fönster: "  + f[i][3] + " Sexdelat fönster: "  + f[i][4] + " Sextondelat fönster: "  + f[i][5] + " Takfönster: "  + f[i][6] + "<br>";
+    }
+    
+    this.setState({floorstring : flooz}, () => { console.log(this.state.floorstring) });
   }
   getNumber(floor,windowtype) {
 
@@ -320,39 +347,62 @@ class Form extends React.Component {
         <img src="/images/s1.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,0)} >+</span>
         { this.state.floor[this.state.activefloor][0] }
-        <button className="btn-small-jk">-</button>
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,0)} >-</span>
       </div>
       <div className="PostCard--ImageJK">
         <img src="/images/v1.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,1)} >+</span>
+        { this.state.floor[this.state.activefloor][1] }
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,1)} >-</span>
       </div>
       <div className="PostCard--ImageJK ">
         <img src="/images/v2.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,2)} >+</span>
+        { this.state.floor[this.state.activefloor][2] }
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,2)} >-</span>
       </div>
       <div className="PostCard--ImageJK">
         <img src="/images/v4.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,3)} >+</span>
+        { this.state.floor[this.state.activefloor][3] }
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,3)} >-</span>
       </div>
       <div className="PostCard--ImageJK ">
         <img src="/images/v6.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,4)} >+</span>
+        { this.state.floor[this.state.activefloor][4] }
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,4)} >-</span>
       </div>
       <div className="PostCard--ImageJK ">
         <img src="/images/v8.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,5)} >+</span>
+        { this.state.floor[this.state.activefloor][5] }
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,5)} >-</span>
       </div>
       <div className="PostCard--ImageJK">
         <img src="/images/vtak.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,6)} >+</span>
+        { this.state.floor[this.state.activefloor][6] }
+        <span className="btn-small-jk" onClick={this.decreaseThis.bind(this,this.state.activefloor,6)} >-</span>
       </div>
-      <div className="PostCard--ImageJK">
+      {/* <div className="PostCard--ImageJK">
         <img src="/images/vgaller.png" alt="En galge med kläder" className="Content-Image"></img><br></br>
         <span className="btn-small-jk" onClick={this.increaseThis.bind(this,this.state.activefloor,7)} >+</span>
-      </div>
+      </div> */}
       { this.state.activefloor }
 
    </label>
+        <p>
+          Enplan { this.state.floor[1] }
+          <br></br>Andra våningen: Stege: { this.state.floor[2][0] } Fönster: { this.state.floor[2][1] } Tvådelat: { this.state.floor[2][2] }
+          <br></br>Källarvåning: { this.state.floor[3] }
+          <br></br>Vinden { this.state.floor[4] }
+
+        </p>
+        <p>
+       { this.state.floorstring }
+        </p>
+   
     <label className='Form--Label'>
       <input
         className='Form--Input Form--InputText'

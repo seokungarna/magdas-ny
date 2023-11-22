@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: 'fonsterputsning-kristianstad'
 title: Fönsterputsning Kristianstad
-featuredImage: 'images/kristianstad.webp'
+featuredImage: '../images/kristianstad.webp'
 subtitle:
 
 meta:

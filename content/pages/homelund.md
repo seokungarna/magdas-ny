@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: 'fonsterputsning-lund'
 title: Fönsterputsning Lund
-featuredImage: 'images/magdas-lund.webp'
+featuredImage: '../images/magdas-lund.webp'
 subtitle:
 
 meta:
