@@ -67,7 +67,7 @@ Vad många ofta tror är ett fönster är hela den glasade biten man ser ut och 
 Men inom alla fönsterputsföretag, så även vi, räknas fönster per handtag…  
 Läs mer via länken nedan.
 
-<a href="https://magdasfonsterputs.se/rakna-fonster/">
+<a href="/rakna-fonster/">
   <div class="Button">Räkna fönster</div>
 </a>  
 <br><br>

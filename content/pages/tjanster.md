@@ -56,13 +56,13 @@ Välkommen att kontakta oss!
 <div class="container Contact--Section1--Container">
 <div class="Contact--Details">
 
-<a href="https://magdasfonsterputs.se/villa-radhus/">
+<a href="/villa-radhus/">
   <div class="Button">Fönsterputsning hus</div>
 </a>  
 </div>
 
 <div class="Contact--Details">
-<a href="https://magdasfonsterputs.se/lagenhet/">
+<a href="/lagenhet/">
   <div class="Button">Fönsterputsning lägenhet</div>
 </a>  
 </div>
@@ -73,13 +73,13 @@ Välkommen att kontakta oss!
 <div class="container Contact--Section1--Container">
 <div class="Contact--Details">
 
-<a href="https://magdasfonsterputs.se/foretag/">
+<a href="/foretag/">
   <div class="Button">Fönsterputsning företag</div>
 </a>
 </div>
 
 <div class="Contact--Details">
-<a href="https://magdasfonsterputs.se/vara-tjanster/fonsterrenovering/">
+<a href="/fonsterrenovering/">
   <div class="Button">Fönsterrenovering</div>
 </a> 
 </div>
