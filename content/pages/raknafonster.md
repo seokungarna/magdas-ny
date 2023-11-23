@@ -12,25 +12,23 @@ meta:
 ##Bli nöjd kund du också till de lägsta priserna!
 
 I varje baspris ingår 15 fönster. Har du fler fönster eller önskar du extra service? Kolla då på vår specifika tilläggslista:
-<div class="container">
-<div class="PostSection">
-<div class="PostSection--GridJK">
- <div class="PostCard--ImageJK relative">
-    <img  src="/images/rakna-fonster1.webp" alt="Hink med skurborste" class="Content-Image"></img>
-  </div> 
-  <div class="PostCard--Content">
 
-  <!-- ![alt text](rakna-fonster1.webp "Räkna fönster") -->
-  <h3 class="PostCard--Title" >Hur räknar vi fönster?</h3>
-    <div class="PostCard--Excerpt">
-  Vad många oftast tror är ett fönster är glaset som man ser ut och in genom.
+<section class="section Contact--Section1">
+ <div class="container Contact--Section1--Container">
+ <div>
+  <div class="Content ">
+  <img  src="/images/rakna-fonster1.webp" alt="Hink med skurborste" class="Content-Image"></img>
+   <h3>Hur räknar vi fönster?</h3>
+   <p> Vad många oftast tror är ett fönster är glaset som man ser ut och in genom.
   Fönsterputsföretag däremot, liksom oss, räknar antal fönster per handtag. Om du till exempel har 1 fönster i sovrummet i 2 delar med 2 handtag, då räknar vi det som 2 fönster och inte som 1 fönster.
   Se flera bildexempel nedan.
+  </p>
   </div>
-  </div>
-  <div class="PostCard--Content">
+ </div>
+ <div>
+ <img  src="/images/rakna-fonster2.webp" alt="Hink med skurborste" class="Content-Image"></img>
   <h3 class="PostCard--Title" >Exempel på tillägg</h3>
-  <ul>
+   <ul>
     <li>
     fönster utöver de 15 stycken som ingår i grundpriset
     </li>
@@ -47,10 +45,17 @@ I varje baspris ingår 15 fönster. Har du fler fönster eller önskar du extra 
     tillägg för inglasat uterum eller balkong
     </li>
   </ul>
+</div>
+</section>
+
+<section class="section Contact--Section1">
+ <div class="container Contact--Section1--Container">
+ <div>
+  <div class="Content ">
+  Bild 1
   </div>
-  <div class="PostCard--ImageJK relative">
-    <img  src="/images/rakna-fonster2.webp" alt="Hink med skurborste" class="Content-Image"></img>
-  </div> 
-</div>
-</div>
-</div>
+  </div>
+  <div>
+  bild 2
+  </div>
+</section>
