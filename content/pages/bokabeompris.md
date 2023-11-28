@@ -22,8 +22,8 @@ Här har vi samlat alla våra smarta erbjudanden. Letar du efter ett abonnemang,
 
 
 
-<a href="https://magdasfonsterputs.se/#bokaoss">
-  <div class="Button">Boka din städning nu.</div>
+<a href="/basta-fonsterputsabonnemang/">
+  <div class="Button">Eller lär mer om abonnemang</div>
 </a>  
 
 <br><br>

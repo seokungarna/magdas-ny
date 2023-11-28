@@ -48,14 +48,58 @@ I varje baspris ingår 15 fönster. Har du fler fönster eller önskar du extra 
 </div>
 </section>
 
+<h3>Vanliga missförstånd vid räkning av fönster</h3>
 <section class="section Contact--Section1">
  <div class="container Contact--Section1--Container">
  <div>
   <div class="Content ">
-  Bild 1
+  <img  src="/images/tre-fonster.webp" alt="Tre fönster" class="Content-Image"></img>
+  <h5>bild 1:(ovan)</h5>
+  <p>Det här räknas som 3 fönster med spröjs och inte som 1 fönster. Varje fönster har ett handtag.
+  </p>
   </div>
   </div>
   <div>
-  bild 2
-  </div>
+   <img  src="/images/man-och-fonster.webp" alt="Man och två fönster" class="Content-Image"></img>
+  <h5 class="PostCard--Title" >bild 2:</h5> 
+  <p>På bilden ser vi 2 fönster.
+  </p>
+</div>
 </section>
+
+<section class="section Contact--Section1">
+ <div class="container Contact--Section1--Container">
+ <div>
+  <div class="Content ">
+  <img  src="/images/tva-fonster-brunt.webp" alt="Två fönster" class="Content-Image"></img>
+  <h5>bild 3</h5>
+  <p>2 fönster
+  </p>
+  </div>
+  </div>
+  <div>
+   <img  src="/images/fyra-fonster.webp" alt="Fyra fönster" class="Content-Image"></img>
+  <h5 class="PostCard--Title" >bild 4:</h5> 
+  <p>4 fönster
+  </p>
+</div>
+</section>
+
+<section class="section Contact--Section1">
+ <div class="container Contact--Section1--Container">
+ <div>
+  <div class="Content ">
+  <img  src="/images/tva-fonster-tegel.webp" alt="Två fönster" class="Content-Image"></img>
+  <h5>bild 5</h5>
+  <p>Ett så kallat flaggfönster med spröjs. Det räknas som 2 fönster – 1 upptill och 1 nertill.
+  </p>
+  </div>
+  </div>
+  <div>
+   <img  src="/images/trel-fonster-ljusgul.webp" alt="Tre fönster" class="Content-Image"></img>
+  <h5 class="PostCard--Title" >bild 6:</h5> 
+  <p>Detta är 3 fönster och inte 1 fönster. Notera antal handtag.
+  </p>
+</div>
+</section>
+
